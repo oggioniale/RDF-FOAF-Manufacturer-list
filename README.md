@@ -9,7 +9,7 @@ This collection is a partly originates from the work of archiving the manufactur
 
 ## Meta
 
-* Please [report any issues or bugs](https://github.com/oggioniale/RDF-FOAF-Manufacturer-list/issues), or email oggioni.a(at)irea.cnr.it
+* Please [provide a new manufacturer information by issues](https://github.com/oggioniale/RDF-FOAF-Manufacturer-list/issues), or email oggioni.a(at)irea.cnr.it
 * License: The collection is being developed by Alessandro Oggioni ([IREA-CNR](http://www.irea.cnr.it)), and it is released under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.html) (GPL‑3).
 * Get citation information for RDF-FOAF Manufacturers list
 
