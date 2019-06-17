@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns="http://rdfdata.get-it.it/sensors/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:org="http://www.w3.org/ns/org#"
+   xmlns:addr="http://wymiwyg.org/ontologies/foaf/postaddress#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xml:base="http://rdfdata.get-it.it/sensors">
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/155">
+      <foaf:name>Sensirion</foaf:name>
+      <foaf:homepage rdf:resource="http://www.sensirion.com"/>
+      <vcard:email rdf:resource="mailto:info@sensirion.com"/>
+      <foaf:phone rdf:resource="tel:+41 44 306 40 00"/>
+      <addr:address rdf:parseType="Resource">
+         <addr:deliveryPoint rdf:parseType="Resource">
+            <addr:location rdf:parseType="Resource">
+               <addr:thoroughfareName>Laubisruetistrasse</addr:thoroughfareName>
+               <addr:streetNr>50</addr:streetNr>
+               <addr:postcode>8712</addr:postcode>
+               <addr:building/>
+               <addr:town>Staefa</addr:town>
+               <addr:region/>
+               <addr:country>ZH</addr:country>
+            </addr:location>
+         </addr:deliveryPoint>
+      </addr:address>
+      <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+   </foaf:Organization>
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/156">
+      <foaf:name>Dionex Corporation</foaf:name>
+      <foaf:homepage rdf:resource="http://www.dionex.com"/>
+      <vcard:email rdf:resource="mailto:callcenter@dionex.com"/>
+      <foaf:phone rdf:resource="tel:+377 99 99 52 52"/>
+      <addr:address rdf:parseType="Resource">
+         <addr:deliveryPoint rdf:parseType="Resource">
+            <addr:location rdf:parseType="Resource">
+               <addr:thoroughfareName>Titan Way P.O. Box 3603</addr:thoroughfareName>
+               <addr:streetNr>1228</addr:streetNr>
+               <addr:postcode>94085</addr:postcode>
+               <addr:building/>
+               <addr:town>Sunnyvale</addr:town>
+               <addr:region>California</addr:region>
+               <addr:country>Stati Uniti</addr:country>
+            </addr:location>
+         </addr:deliveryPoint>
+      </addr:address>
+      <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+   </foaf:Organization>
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/157">
+      <foaf:name>SAFAS - Société Anonyme de Fabrication d’Appareillages Scientifiques</foaf:name>
+      <foaf:homepage rdf:resource="http://safas-monaco.com"/>
+      <vcard:email rdf:resource="mailto:safas@safas.com"/>
+      <foaf:phone rdf:resource="tel:+377 99 99 52 52"/>
+      <addr:address rdf:parseType="Resource">
+         <addr:deliveryPoint rdf:parseType="Resource">
+            <addr:location rdf:parseType="Resource">
+               <addr:thoroughfareName>quai Antoine 1er</addr:thoroughfareName>
+               <addr:streetNr>10</addr:streetNr>
+               <addr:postcode>98000</addr:postcode>
+               <addr:building/>
+               <addr:town>Monaco</addr:town>
+               <addr:region/>
+               <addr:country>MC</addr:country>
+            </addr:location>
+         </addr:deliveryPoint>
+      </addr:address>
+      <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+   </foaf:Organization>
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/158">
+      <foaf:name>Radiometer Analytical SAS</foaf:name>
+      <foaf:homepage rdf:resource="http://www.radiometer-analytical.com/en_company.asp"/>
+      <vcard:email rdf:resource="mailto:radiometer@analytical.com"/>
+      <foaf:phone rdf:resource="tel:+33 (0) 478 03 38 38"/>
+      <addr:address rdf:parseType="Resource">
+         <addr:deliveryPoint rdf:parseType="Resource">
+            <addr:location rdf:parseType="Resource">
+               <addr:thoroughfareName>rue d'Alsace, Villeurbanne CEDEX</addr:thoroughfareName>
+               <addr:streetNr>72</addr:streetNr>
+               <addr:postcode>69627</addr:postcode>
+               <addr:building/>
+               <addr:town>Lyon</addr:town>
+               <addr:region/>
+               <addr:country>FR</addr:country>
+            </addr:location>
+         </addr:deliveryPoint>
+      </addr:address>
+      <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+   </foaf:Organization>
+</rdf:RDF>
