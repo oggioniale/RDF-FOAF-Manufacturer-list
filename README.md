@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1240384.svg)](https://doi.org/10.5281/zenodo.1240384) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![DOI](https://zenodo.org/badge/187632170.svg)](https://zenodo.org/badge/latestdoi/187632170) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 RDF-FOAF-Manufacturer-list
 ==========================
@@ -14,6 +14,13 @@ This collection is a partly originates from the work of archiving the manufactur
 * Get citation information for RDF-FOAF Manufacturers list
 
 ``` bibtex
-@misc{
+@misc{alessandro_oggioni_2019_3247546,
+  author       = {Alessandro Oggioni},
+  title        = {{oggioniale/RDF-FOAF-Manufacturer-list: First 
+                   release of RDF-FOAF Manufacturers list}},
+  month        = jun,
+  year         = 2019,
+  doi          = {10.5281/zenodo.3247546},
+  url          = {https://doi.org/10.5281/zenodo.3247546}
 }
 ```
