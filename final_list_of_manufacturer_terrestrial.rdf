@@ -3454,7 +3454,7 @@
       </addr:address>
       <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
    </foaf:Organization>
-   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/#">
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/165">
       <foaf:name>Spectral Evolution</foaf:name>
       <foaf:homepage rdf:resource="https://spectralevolution.com"/>
       <vcard:email rdf:resource="mailto:info@spectralevolution.com"/>
@@ -3474,7 +3474,7 @@
       </addr:address>
       <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
    </foaf:Organization>
-   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/#">
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/165">
       <foaf:name>Analytical Spectral Devices, Inc.</foaf:name>
       <foaf:homepage rdf:resource="www.asdi.com"/>
       <vcard:email rdf:resource="mailto:info@asdi.com"/>
