@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/187632170.svg)](https://zenodo.org/badge/latestdoi/187632170) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6470688.svg)](https://doi.org/10.5281/zenodo.6470688) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 RDF-FOAF-Manufacturer-list
 ==========================
@@ -14,13 +14,15 @@ This collection is a partly originates from the work of archiving the manufactur
 * Get citation information for RDF-FOAF Manufacturers list
 
 ``` bibtex
-@misc{alessandro_oggioni_2019_3247546,
+@software{alessandro_oggioni_2022_6470688,
   author       = {Alessandro Oggioni},
-  title        = {{oggioniale/RDF-FOAF-Manufacturer-list: First 
-                   release of RDF-FOAF Manufacturers list}},
-  month        = jun,
-  year         = 2019,
-  doi          = {10.5281/zenodo.3247546},
-  url          = {https://doi.org/10.5281/zenodo.3247546}
+  title        = {{oggioniale/RDF-FOAF-Manufacturer-list: New release 
+                   of RDF-FOAF Manufacturers list}},
+  month        = apr,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {1.1.0},
+  doi          = {10.5281/zenodo.6470688},
+  url          = {https://doi.org/10.5281/zenodo.6470688}
 }
 ```
