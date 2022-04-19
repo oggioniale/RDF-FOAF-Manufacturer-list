@@ -3458,7 +3458,7 @@
       <foaf:name>Spectral Evolution</foaf:name>
       <foaf:homepage rdf:resource="https://spectralevolution.com"/>
       <vcard:email rdf:resource="mailto:info@spectralevolution.com"/>
-      <foaf:phone rdf:resource="tel:+1 978-687-1833"/>
+      <foaf:phone rdf:resource="tel:+1-978-687-1833"/>
       <addr:address rdf:parseType="Resource">
          <addr:deliveryPoint rdf:parseType="Resource">
             <addr:location rdf:parseType="Resource">
@@ -3474,11 +3474,11 @@
       </addr:address>
       <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
    </foaf:Organization>
-   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/165">
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/166">
       <foaf:name>Analytical Spectral Devices, Inc.</foaf:name>
       <foaf:homepage rdf:resource="www.asdi.com"/>
       <vcard:email rdf:resource="mailto:info@asdi.com"/>
-      <foaf:phone rdf:resource="tel:+1 303-444-6522"/>
+      <foaf:phone rdf:resource="tel:+1-303-444-6522"/>
       <addr:address rdf:parseType="Resource">
          <addr:deliveryPoint rdf:parseType="Resource">
             <addr:location rdf:parseType="Resource">
