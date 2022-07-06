@@ -3513,4 +3513,42 @@
          </addr:deliveryPoint>
       </addr:address>
    </foaf:Organization>
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/168">
+      <foaf:name>Water Insight</foaf:name>
+      <foaf:homepage rdf:resource="https://www.waterinsight.nl"/>
+      <vcard:email rdf:resource="mailto:info@waterinsight.nl"/>
+      <foaf:phone rdf:resource="tel:+31(6)42451263"/>
+      <addr:address rdf:parseType="Resource">
+         <addr:deliveryPoint rdf:parseType="Resource">
+            <addr:location rdf:parseType="Resource">
+               <addr:thoroughfareName>Fahrenheitstraat</addr:thoroughfareName>
+               <addr:streetNr>42</addr:streetNr>
+               <addr:postcode>6716BR</addr:postcode>
+               <addr:building/>
+               <addr:town>Ede</addr:town>
+               <addr:region/>
+   	       <addr:country>The Netherlands</addr:country>
+            </addr:location>
+         </addr:deliveryPoint>
+      </addr:address>
+   </foaf:Organization>
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/169">
+      <foaf:name>Malvern Panalytical</foaf:name>
+      <foaf:homepage rdf:resource="https://www.malvernpanalytical.com/"/>
+      <vcard:email rdf:resource="mailto:info@malvernpanalytical.com"/>
+      <foaf:phone rdf:resource="tel:+44-1684-892456"/>
+      <addr:address rdf:parseType="Resource">
+         <addr:deliveryPoint rdf:parseType="Resource">
+            <addr:location rdf:parseType="Resource">
+               <addr:thoroughfareName>Enigma Business Park Grovewood Road</addr:thoroughfareName>
+               <addr:streetNr>1</addr:streetNr>
+               <addr:postcode>WR141XZ</addr:postcode>
+               <addr:building/>
+               <addr:town>Malvern</addr:town>
+               <addr:region/>
+   	       <addr:country> United Kingdom</addr:country>
+            </addr:location>
+         </addr:deliveryPoint>
+      </addr:address>
+   </foaf:Organization>
 </rdf:RDF>
