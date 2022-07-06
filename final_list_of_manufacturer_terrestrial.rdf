@@ -3546,7 +3546,7 @@
                <addr:building/>
                <addr:town>Malvern</addr:town>
                <addr:region/>
-   	       <addr:country> United Kingdom</addr:country>
+   	       <addr:country>United Kingdom</addr:country>
             </addr:location>
          </addr:deliveryPoint>
       </addr:address>
