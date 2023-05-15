@@ -3551,4 +3551,344 @@
          </addr:deliveryPoint>
       </addr:address>
    </foaf:Organization>
+   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/170">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Davis Instruments</foaf:name>
+    <foaf:homepage rdf:resource="https://www.davisinstruments.com"/>
+    <vcard:email rdf:resource="mailto:info@davisinstruments.com"/>
+    <foaf:phone rdf:resource="tel:+1 510 732 9229"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Diablo Avenue</addr:thoroughfareName>
+          <addr:streetNr>3465</addr:streetNr>
+          <addr:postcode>CA 94545</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Hayward</addr:town>
+          <addr:region>California</addr:region>
+          <addr:country>USA</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/171">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Ubiquiti</foaf:name>
+    <foaf:homepage rdf:resource="https://www.ui.com"/>
+    <vcard:email rdf:resource="mailto:support@ubnt.com"/>
+    <foaf:phone rdf:resource="tel:NA"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Third Avenue</addr:thoroughfareName>
+          <addr:streetNr>685</addr:streetNr>
+          <addr:postcode>New York 10017</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>New York</addr:town>
+          <addr:region>New York</addr:region>
+          <addr:country>USA</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/172">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Ocean Tools</foaf:name>
+    <foaf:homepage rdf:resource="https://www.oceantools.co.uk"/>
+    <vcard:email rdf:resource="mailto:mail@oceantools.co.uk"/>
+    <foaf:phone rdf:resource="tel:+44 1224 709606"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Claymore Drive</addr:thoroughfareName>
+          <addr:streetNr>NA</addr:streetNr>
+          <addr:postcode>AB23 8GD</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Aberdeen</addr:town>
+          <addr:region>NA</addr:region>
+          <addr:country>United Kingdom</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/173">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Mobotix</foaf:name>
+    <foaf:homepage rdf:resource="https://www.mobotix.com"/>
+    <vcard:email rdf:resource="mailto:de-info@mobotix.com"/>
+    <foaf:phone rdf:resource="tel:+49 6302 9816-0"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Kaiserstrasse</addr:thoroughfareName>
+          <addr:streetNr>NA</addr:streetNr>
+          <addr:postcode>67722</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Langmeil</addr:town>
+          <addr:region>NA</addr:region>
+          <addr:country>Germany</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/174">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Gill Instruments</foaf:name>
+    <foaf:homepage rdf:resource="https://gillinstruments.com"/>
+    <vcard:email rdf:resource="mailto:contact@gillinstruments.com"/>
+    <foaf:phone rdf:resource="tel:+44 (0) 1590 613500"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Gosport Street</addr:thoroughfareName>
+          <addr:streetNr>67</addr:streetNr>
+          <addr:postcode>SO41 9EG</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Lymington</addr:town>
+          <addr:region>Hampshire</addr:region>
+          <addr:country>United Kingdom</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/175">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Jai</foaf:name>
+    <foaf:homepage rdf:resource="https://www.jai.com"/>
+    <vcard:email rdf:resource="mailto:camerasales.emea@jai.com"/>
+    <foaf:phone rdf:resource="tel:+45 4457 8888"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Valby Torvegade</addr:thoroughfareName>
+          <addr:streetNr>17</addr:streetNr>
+          <addr:postcode>DK-2500</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Valby</addr:town>
+          <addr:region>Copenhagen</addr:region>
+          <addr:country>Denmark</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/176">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Cimel Electronique S.A.S.</foaf:name>
+    <foaf:homepage rdf:resource="https://www.cimel.fr"/>
+    <vcard:email rdf:resource="mailto:cimel@cimel.fr"/>
+    <foaf:phone rdf:resource="tel:+33 (0)1 43 48 79 33"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>rue de charonne</addr:thoroughfareName>
+          <addr:streetNr>172</addr:streetNr>
+          <addr:postcode>75011</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Paris</addr:town>
+          <addr:region>NA</addr:region>
+          <addr:country>France</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/177">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Siap+Micros Enviromental Monitoring Solutions</foaf:name>
+    <foaf:homepage rdf:resource="https://www.siapmicros.com"/>
+    <vcard:email rdf:resource="mailto:info@siapmicros.com"/>
+    <foaf:phone rdf:resource="tel:+39 0438 491411"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>via del lavoro</addr:thoroughfareName>
+          <addr:streetNr>1</addr:streetNr>
+          <addr:postcode>31020</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>San Fior</addr:town>
+          <addr:region>Treviso</addr:region>
+          <addr:country>Italy</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/178">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>LI-COR</foaf:name>
+    <foaf:homepage rdf:resource="https://www.licor.com"/>
+    <vcard:email rdf:resource="mailto:envsupport@licor.com"/>
+    <foaf:phone rdf:resource="tel:1-402-467-3576"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Superior Street</addr:thoroughfareName>
+          <addr:streetNr>4647</addr:streetNr>
+          <addr:postcode>NA</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Lincoln</addr:town>
+          <addr:region>Nebraska</addr:region>
+          <addr:country>USA</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/179">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Metrohm</foaf:name>
+    <foaf:homepage rdf:resource="https://www.metrohm.com"/>
+    <vcard:email rdf:resource="mailto:NA"/>
+    <foaf:phone rdf:resource="tel:+39 0296730707"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Industriestrasse</addr:thoroughfareName>
+          <addr:streetNr>13</addr:streetNr>
+          <addr:postcode>4800</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Zofingen</addr:town>
+          <addr:region>NA</addr:region>
+          <addr:country>Switzerland</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/180">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>SEAL Analytical</foaf:name>
+    <foaf:homepage rdf:resource="https://www.seal-analytical.com"/>
+    <vcard:email rdf:resource="mailto:sales@seal-us.com"/>
+    <foaf:phone rdf:resource="tel:262-241-7900"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>West Donges Bay Road</addr:thoroughfareName>
+          <addr:streetNr>6501</addr:streetNr>
+          <addr:postcode>53092</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Mequon</addr:town>
+          <addr:region>Wisconsin</addr:region>
+          <addr:country>USA</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/181">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Shimadzu Corporation</foaf:name>
+    <foaf:homepage rdf:resource="https://www.shimadzu.com"/>
+    <vcard:email rdf:resource="mailto:NA"/>
+    <foaf:phone rdf:resource="tel:+81-75-823-1111"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Nishinokyo Kuwabara-cho</addr:thoroughfareName>
+          <addr:streetNr>1</addr:streetNr>
+          <addr:postcode>604-8511</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Nakagyo-ku</addr:town>
+          <addr:region>Kyoto</addr:region>
+          <addr:country>Japan</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/182">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Apollo SciTech</foaf:name>
+    <foaf:homepage rdf:resource="https://www.apolloscitech.com"/>
+    <vcard:email rdf:resource="mailto:admin@apolloscitech.com"/>
+    <foaf:phone rdf:resource="tel:302-861-6557 "/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Shea Way</addr:thoroughfareName>
+          <addr:streetNr>18</addr:streetNr>
+          <addr:postcode>19713</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Newark</addr:town>
+          <addr:region>Delaware</addr:region>
+          <addr:country>USA</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/183">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Airmar Technology Corporation</foaf:name>
+    <foaf:homepage rdf:resource="https://www.airmar.com"/>
+    <vcard:email rdf:resource="mailto:sales@airmar.com"/>
+    <foaf:phone rdf:resource="tel:(603) 673-9570"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Meadowbrook Drive</addr:thoroughfareName>
+          <addr:streetNr>35</addr:streetNr>
+          <addr:postcode>03055</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Milford</addr:town>
+          <addr:region>New York</addr:region>
+          <addr:country>USA</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/184">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Xeos Technologies Inc.</foaf:name>
+    <foaf:homepage rdf:resource="https://xeostech.com"/>
+    <vcard:email rdf:resource="mailto:support@xeostech.com"/>
+    <foaf:phone rdf:resource="tel:902-444-7650"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Topple Drive</addr:thoroughfareName>
+          <addr:streetNr>36</addr:streetNr>
+          <addr:postcode>N.S.B3B 1L6</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Dartmouth</addr:town>
+          <addr:region>New Hampshire</addr:region>
+          <addr:country>USA</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/185">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>Kipp &amp; Zonen</foaf:name>
+    <foaf:homepage rdf:resource="https://www.kippzonen.com"/>
+    <vcard:email rdf:resource="mailto:solar-sales@otthydromet.com"/>
+    <foaf:phone rdf:resource="tel:+31 15 2755 210"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Delftechpark</addr:thoroughfareName>
+          <addr:streetNr>36</addr:streetNr>
+          <addr:postcode>2628 XH</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Delft</addr:town>
+          <addr:region>NA</addr:region>
+          <addr:country>the Netherlands</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
+  <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/186">
+    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
+    <foaf:name>OTT Hydromet</foaf:name>
+    <foaf:homepage rdf:resource="http://www.ott.com/en-uk/"/>
+    <vcard:email rdf:resource="mailto:uksales@otthydromet.com"/>
+    <foaf:phone rdf:resource="tel:+44 (0) 1246 573 480"/>
+    <addr:address rdf:parseType="Resource">
+      <addr:deliveryPoint rdf:parseType="Resource">
+        <addr:location rdf:parseType="Resource">
+          <addr:thoroughfareName>Brightside Ln</addr:thoroughfareName>
+          <addr:streetNr>800</addr:streetNr>
+          <addr:postcode>S9 2RX</addr:postcode>
+          <addr:building>NA</addr:building>
+          <addr:town>Sheffield</addr:town>
+          <addr:region>NA</addr:region>
+          <addr:country>United Kingdom</addr:country>
+        </addr:location>
+      </addr:deliveryPoint>
+    </addr:address>
+  </foaf:Organization>
 </rdf:RDF>
