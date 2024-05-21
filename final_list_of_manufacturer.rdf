@@ -3555,19 +3555,11 @@
       </addr:address>
    </foaf:Organization>
    <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/170">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Davis Instruments</foaf:name>
     <foaf:homepage rdf:resource="https://www.davisinstruments.com"/>
     <vcard:email rdf:resource="mailto:info@davisinstruments.com"/>
     <foaf:phone rdf:resource="tel:+1-510-732-9229"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Davis Instruments</foaf:name>
-    <foaf:homepage rdf:resource="https://www.davisinstruments.com"/>
-    <vcard:email rdf:resource="mailto:info@davisinstruments.com"/>
-    <foaf:phone rdf:resource="tel:+1 510 732 9229"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3583,11 +3575,7 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/171">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <foaf:name>Ubiquiti</foaf:name>
     <foaf:homepage rdf:resource="https://www.ui.com"/>
     <vcard:email rdf:resource="mailto:support@ubnt.com"/>
@@ -3607,19 +3595,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/172">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Ocean Tools</foaf:name>
     <foaf:homepage rdf:resource="https://www.oceantools.co.uk"/>
     <vcard:email rdf:resource="mailto:mail@oceantools.co.uk"/>
     <foaf:phone rdf:resource="tel:+44-1224-709606"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Ocean Tools</foaf:name>
-    <foaf:homepage rdf:resource="https://www.oceantools.co.uk"/>
-    <vcard:email rdf:resource="mailto:mail@oceantools.co.uk"/>
-    <foaf:phone rdf:resource="tel:+44 1224 709606"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3635,19 +3615,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/173">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Mobotix</foaf:name>
     <foaf:homepage rdf:resource="https://www.mobotix.com"/>
     <vcard:email rdf:resource="mailto:de-info@mobotix.com"/>
     <foaf:phone rdf:resource="tel:+49-6302-9816-0"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Mobotix</foaf:name>
-    <foaf:homepage rdf:resource="https://www.mobotix.com"/>
-    <vcard:email rdf:resource="mailto:de-info@mobotix.com"/>
-    <foaf:phone rdf:resource="tel:+49 6302 9816-0"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3663,19 +3635,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/174">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Gill Instruments</foaf:name>
     <foaf:homepage rdf:resource="https://gillinstruments.com"/>
     <vcard:email rdf:resource="mailto:contact@gillinstruments.com"/>
     <foaf:phone rdf:resource="tel:+44-(0)-1590-613500"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Gill Instruments</foaf:name>
-    <foaf:homepage rdf:resource="https://gillinstruments.com"/>
-    <vcard:email rdf:resource="mailto:contact@gillinstruments.com"/>
-    <foaf:phone rdf:resource="tel:+44 (0) 1590 613500"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3691,19 +3655,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/175">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Jai</foaf:name>
     <foaf:homepage rdf:resource="https://www.jai.com"/>
     <vcard:email rdf:resource="mailto:camerasales.emea@jai.com"/>
     <foaf:phone rdf:resource="tel:+45-4457-8888"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Jai</foaf:name>
-    <foaf:homepage rdf:resource="https://www.jai.com"/>
-    <vcard:email rdf:resource="mailto:camerasales.emea@jai.com"/>
-    <foaf:phone rdf:resource="tel:+45 4457 8888"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3719,19 +3675,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/176">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Cimel Electronique S.A.S.</foaf:name>
     <foaf:homepage rdf:resource="https://www.cimel.fr"/>
     <vcard:email rdf:resource="mailto:cimel@cimel.fr"/>
     <foaf:phone rdf:resource="tel:+33-(0)1-43-48-79-33"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Cimel Electronique S.A.S.</foaf:name>
-    <foaf:homepage rdf:resource="https://www.cimel.fr"/>
-    <vcard:email rdf:resource="mailto:cimel@cimel.fr"/>
-    <foaf:phone rdf:resource="tel:+33 (0)1 43 48 79 33"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3747,19 +3695,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/177">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Siap+Micros Enviromental Monitoring Solutions</foaf:name>
     <foaf:homepage rdf:resource="https://www.siapmicros.com"/>
     <vcard:email rdf:resource="mailto:info@siapmicros.com"/>
     <foaf:phone rdf:resource="tel:+39-0438-491411"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Siap+Micros Enviromental Monitoring Solutions</foaf:name>
-    <foaf:homepage rdf:resource="https://www.siapmicros.com"/>
-    <vcard:email rdf:resource="mailto:info@siapmicros.com"/>
-    <foaf:phone rdf:resource="tel:+39 0438 491411"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3775,11 +3715,7 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/178">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <foaf:name>LI-COR</foaf:name>
     <foaf:homepage rdf:resource="https://www.licor.com"/>
     <vcard:email rdf:resource="mailto:envsupport@licor.com"/>
@@ -3799,19 +3735,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/179">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Metrohm</foaf:name>
     <foaf:homepage rdf:resource="https://www.metrohm.com"/>
     <vcard:email rdf:resource="mailto:NA"/>
     <foaf:phone rdf:resource="tel:+39-0296730707"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Metrohm</foaf:name>
-    <foaf:homepage rdf:resource="https://www.metrohm.com"/>
-    <vcard:email rdf:resource="mailto:NA"/>
-    <foaf:phone rdf:resource="tel:+39 0296730707"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3827,11 +3755,7 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/180">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <foaf:name>SEAL Analytical</foaf:name>
     <foaf:homepage rdf:resource="https://www.seal-analytical.com"/>
     <vcard:email rdf:resource="mailto:sales@seal-us.com"/>
@@ -3851,11 +3775,7 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/181">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <foaf:name>Shimadzu Corporation</foaf:name>
     <foaf:homepage rdf:resource="https://www.shimadzu.com"/>
     <vcard:email rdf:resource="mailto:NA"/>
@@ -3875,11 +3795,7 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/182">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <foaf:name>Apollo SciTech</foaf:name>
     <foaf:homepage rdf:resource="https://www.apolloscitech.com"/>
     <vcard:email rdf:resource="mailto:admin@apolloscitech.com"/>
@@ -3899,19 +3815,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/183">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Airmar Technology Corporation</foaf:name>
     <foaf:homepage rdf:resource="https://www.airmar.com"/>
     <vcard:email rdf:resource="mailto:sales@airmar.com"/>
     <foaf:phone rdf:resource="tel:(603)-673-9570"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Airmar Technology Corporation</foaf:name>
-    <foaf:homepage rdf:resource="https://www.airmar.com"/>
-    <vcard:email rdf:resource="mailto:sales@airmar.com"/>
-    <foaf:phone rdf:resource="tel:(603) 673-9570"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3927,11 +3835,7 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/184">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <foaf:name>Xeos Technologies Inc.</foaf:name>
     <foaf:homepage rdf:resource="https://xeostech.com"/>
     <vcard:email rdf:resource="mailto:support@xeostech.com"/>
@@ -3951,19 +3855,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/185">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>Kipp &amp; Zonen</foaf:name>
     <foaf:homepage rdf:resource="https://www.kippzonen.com"/>
     <vcard:email rdf:resource="mailto:solar-sales@otthydromet.com"/>
     <foaf:phone rdf:resource="tel:+31-15-2755-210"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>Kipp &amp; Zonen</foaf:name>
-    <foaf:homepage rdf:resource="https://www.kippzonen.com"/>
-    <vcard:email rdf:resource="mailto:solar-sales@otthydromet.com"/>
-    <foaf:phone rdf:resource="tel:+31 15 2755 210"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
@@ -3979,19 +3875,11 @@
     </addr:address>
   </foaf:Organization>
   <foaf:Organization rdf:about="http://rdfdata.get-it.it/sensors/manufacturers/186">
-<<<<<<< HEAD:final_list_of_manufacturer.rdf
     <dc:creator rdf:resource="http://orcid.org/0000-0002-7997-219X"/>
     <foaf:name>OTT Hydromet</foaf:name>
     <foaf:homepage rdf:resource="http://www.ott.com/en-uk/"/>
     <vcard:email rdf:resource="mailto:uksales@otthydromet.com"/>
     <foaf:phone rdf:resource="tel:+44-(0)-1246-573-480"/>
-=======
-    <dcterms:creator rdf:resource="http://orcid.org/0000-0002-7997-219X">Alessandro Oggioni</dcterms:creator>
-    <foaf:name>OTT Hydromet</foaf:name>
-    <foaf:homepage rdf:resource="http://www.ott.com/en-uk/"/>
-    <vcard:email rdf:resource="mailto:uksales@otthydromet.com"/>
-    <foaf:phone rdf:resource="tel:+44 (0) 1246 573 480"/>
->>>>>>> 48f4a6d1a3349c46450e1bf5a16c085abf8899c0:final_list_of_manufacturer_terrestrial.rdf
     <addr:address rdf:parseType="Resource">
       <addr:deliveryPoint rdf:parseType="Resource">
         <addr:location rdf:parseType="Resource">
